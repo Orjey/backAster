@@ -1,0 +1,13 @@
+body {
+	background:darkslategray;
+}
+
+#wrapper {
+	width:600px;
+	margin:0 auto;
+}
+
+
+canvas{
+	cursor: none;
+}
